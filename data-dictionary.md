@@ -11,6 +11,6 @@
 | boundary type and year | `wd22` | 
 | current state of the data | `proposed` |
 
-this convention could apply equally to other census data tables (oa, msoa) census years (11, 21) and so on
+this convention could apply equally to other census data tables (oa, msoa) census years (11, 22) and so on
 
 please note the use of lowercase filenames and underscore spaces.
