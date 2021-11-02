@@ -4,10 +4,13 @@
 
 #### naming conventions
 
-a data file and/or table would be named as such: `lbl_lsoa11_wd22_proposed.csv` - `lbl` for lewisham, `lsoa11` for the census tract type and year, `wd22` for the boundary type and year, `proposed` indicates the current state of the data.
+| filename/tablename | `lbl_lsoa11_wd22_proposed.csv` | 
+| - | - |
+| borough | `lbl` |
+| census geography type and year | `lsoa11` | 
+| boundary type and year | `wd22` | 
+| current state of the data | `proposed` |
 
-  
-### employment
-### languages
-### lookups
-### population
+this convention could apply equally to other census data tables (oa, msoa) census years (11, 21) and so on
+
+please note the use of lowercase filenames and underscore spaces.
