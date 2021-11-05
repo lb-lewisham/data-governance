@@ -9,7 +9,7 @@
 | borough | `lbl` |
 | census geography type and year | `lsoa11` | 
 | boundary type and year | `wd22` | 
-| current state of the data | `proposed` |
+| current state of the data | `proposed` / `preliminary` / `prospective` / `historical` / `current` |
 
 this convention could apply equally to other census data tables (oa, msoa) census years (11, 22) and so on
 
